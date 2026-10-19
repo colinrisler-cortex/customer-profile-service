@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "customer-profile-service"
+  x-cortex-tag: "customer-profile-service"
+  x-cortex-description: "Unified customer profile read/write API"
+  x-cortex-owners:
+    - type: group
+      name: "Customer Data Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001502"
+    apm_name: "Customer Data Platform"
+    cost_center: "CC-4511"
